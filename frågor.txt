@@ -1,0 +1,21 @@
+"Add" - Man "stagear" den eller de filer (Det kan vara helt nyskapade filer eller att det är filer man har commitat tidigare men man har ändrat i innehållet)
+man vill ska vara med i nästa commit. 
+
+"Commit" - Man markerar en förändring som gäller den/de fil/filer man tidigare addat/stageat. Brukligt är att lägga till ett kort meddelande som beskriver vad som
+ändrats eller skapats.
+
+"Pull" - Man laddar hem commits från ett remote repository
+
+"Push" - Man laddar upp innehåll från sitt lokala repository till remote repository
+
+"Log" - Git log visar en slags "loggbok" över dina committar, när de gjordes, tillhörande
+meddelande tec.
+
+"Status" - Git status visar om det finns ändringar i dina filer som du ännu inte addat eller
+committat ännu. Det visar också om det finns filer i "staging area", dvs ändringar som
+addats men ännu inte commitats.
+
+Hur man kan formulera sig i commit-meddelanden: Man bör formulera sig kort och koncist.
+Men det ska tydligt beskriva exakt vad som har ändrats. Det verkar vara brukligt att använda
+presens-form på verben, tex "adding". Vilket jag nu inser att jag inte gjort då jag använt mig av infinitiv-formen, tex "add". Men jag tror jag har gjort ganska
+tydliga meddelanden ändå.
