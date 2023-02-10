@@ -41,7 +41,7 @@ public class Guesser{
   private void rules(){
     System.out.println("Think of a most beautiful number between " +
                        low + " and "  + high);
-    System.out.println("I'm going to ask a few questions in order " +
+    System.out.println("I'm going to ask a few beautiful questions in order " +
                        "to guess the number.");
     System.out.println("Please answer T for true, and F for false.\n");
   }
